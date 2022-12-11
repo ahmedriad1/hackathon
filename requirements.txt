@@ -3,3 +3,4 @@ Gunicorn
 marshmallow
 gpt-index
 langchain
+flask-cors

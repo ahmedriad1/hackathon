@@ -3,8 +3,11 @@ from flask import Flask, jsonify, request
 from marshmallow import Schema, fields, ValidationError
 from gpt_index import GPTTreeIndex, LLMPredictor
 from langchain import OpenAI
+from flask_cors import CORS, cross_origin
 
 app = Flask(__name__)
+cors = CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
 
 llm_predictor = LLMPredictor(
     llm=OpenAI(
@@ -29,6 +32,7 @@ class BaseSchema(Schema):
 
 
 @app.route('/ask/playht', methods=["POST"])
+@cross_origin()
 def playht():
     # Get Request body from JSON
     request_data = request.json
@@ -47,6 +51,7 @@ def playht():
 
 
 @app.route('/ask/twitter', methods=["POST"])
+@cross_origin()
 def twitter():
     # Get Request body from JSON
     request_data = request.json
