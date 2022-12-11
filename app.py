@@ -12,15 +12,24 @@ llm_predictor = LLMPredictor(
         model_name="text-davinci-003",
     ),
 )
-index = GPTTreeIndex.load_from_disk('index.json', llm_predictor=llm_predictor)
+
+
+playht_index = GPTTreeIndex.load_from_disk(
+    'index.json',
+    llm_predictor=llm_predictor,
+)
+twitter_index = GPTTreeIndex.load_from_disk(
+    'twitter_index.json',
+    llm_predictor=llm_predictor,
+)
 
 
 class BaseSchema(Schema):
     question = fields.String(required=True)
 
 
-@app.route('/ask', methods=["POST"])
-def base():
+@app.route('/ask/playht', methods=["POST"])
+def playht():
     # Get Request body from JSON
     request_data = request.json
     # Validate request body against schema data types
@@ -31,7 +40,25 @@ def base():
         return jsonify(err.messages), 400
 
     question = result['question']
-    result = index.query(question)
+    result = playht_index.query(question)
+
+    # Send response
+    return result, 200
+
+
+@app.route('/ask/twitter', methods=["POST"])
+def twitter():
+    # Get Request body from JSON
+    request_data = request.json
+    # Validate request body against schema data types
+    schema = BaseSchema()
+    try:
+        result = schema.load(request_data)
+    except ValidationError as err:
+        return jsonify(err.messages), 400
+
+    question = result['question']
+    result = twitter_index.query(question)
 
     # Send response
     return result, 200

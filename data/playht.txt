@@ -1,0 +1,707 @@
+=== How to add a Play.ht Audio Player to your Website ===
+
+* Start off by Creating your Audio from the Dashboard.
+
+
+![Create Audio Play.ht](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_n25940.png)
+
+
+
+* Once you have your Audio file created and in the Audio Files list, click on the Embed option on the Audio file. 
+
+
+![Play.ht Embed Audio](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_18itfhg.png)
+
+
+
+* Copy the Embed "iframe" code. 
+
+
+![iframe code](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_1bvhe7q.png)
+
+
+* Paste the Code wherever you require on your website, and a Player should appear! 
+
+
+
+=== Will edits use my words? ===
+
+Yes, editing is like creating a New Audio File, hence it uses words.
+
+
+
+=== Add Custom Pronunciations to your Audio ===
+# Here's how you can add Custom Pronunciations to your Text to Speech Conversions.
+
+${youtube}[Add Custom Pronunciations - Video Tutorial](q5d63RABO-A)
+
+
+* Head over to your **${color}[#108a5c](Play Dashboard)**, and click on **${color}[#108a5c](Create Audio)** to open our **${color}[#108a5c](Editor)**.
+
+
+![Create Audio](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_m14jg4.png)
+
+
+* Add whatever text you wish to convert, and select the word whose pronunciation you wish to change by clicking and dragging the mouse cursor over it. 
+
+
+![Selecting text](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_1fh8buy.png)
+
+
+* From the select toolbar, click on **${color}[#108a5c](Pronunciation)**. 
+
+
+![Pronunciation](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_pivz2a.png)
+
+
+* Now enter your custom pronunciation in the box provided, and hit Apply. 
+
+
+![Custom Pronunciation](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_14n8y9g.png)
+
+
+| You can also try using our Phonemes feature by adding a Phonetic pronunciation to your words. Just select the checkbox besides Phonemes, and the rest remains the same.
+
+| Selecting the checkbox besides "Save to Pronunciation Library" will save your pronunciation for future use.
+
+
+
+=== How to White-Label your Audio Players ===
+# Here's how you White-Label your Audio Players
+
+* On your **${color}[#108a5c](Play.ht Dashboard)**, click on **${color}[#108a5c](Audio Player Settings)**. A window with various settings should open up for you.
+
+![Audio Player Settings](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_1quo5i3.png)
+
+* Scroll down, until you find an option called **${color}[#108a5c](Whitelabel Player)**, and check the box beside it. 
+
+![whitelabel player](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_13mo6pi.png)
+
+* This will now remove the **Play.ht marketing message** from the Audio Player.
+
+* Finally, click **${color}[#108a5c](Save Configs)**, and you're good to go!
+
+![Save](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_1lak86u.png)
+
+
+=== Will previews use my words? ===
+|| There are two types of Previews available on Play. 
+
+###### Full preview (Listen button) uses the words. 
+
+
+![Full Preview](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_pt2z7u.png)
+
+
+###### Paragraph preview does not use words. 
+
+
+![Paragraph Preview](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_wpfoiw.png)
+
+
+
+
+=== How to turn your Audio into a Podcast ===
+# How to Create RSS feed of your audio files and distribute them to a podcasting platform such as iTunes and Spotify.
+
+
+
+${youtube}[Podcast Hosting - Video Tutorial](uBLDJBj-IUI)
+
+
+
+* Head over to your **${color}[#108a5c](Play.ht Dashboard)**, and select the **${color}[#108a5c](Podcast Hosting)** feature.
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/podcast-hosting_zct3e1.png)
+
+
+* Once you click on **${color}[#108a5c](Podcast Hosting)**, you'll see a window which has a **Hosting Form**, asking for the **Podcast Details**.
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/podcast-hosting-window_1h5wtrt.png)
+
+
+* Type in all the necessary details, along with a featured image for your Podcast, and click on **${color}[#108a5c](Save Details)**.
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/podcast-hosting-save-details_169mpgv.png)
+
+
+| Make sure you upload an image, else you won't be able to save your details.
+
+
+* Once you do, an **${color}[#108a5c](RSS Feed)** is generated, which you can **Copy**, and use it to upload it to your desired podcasting service. 
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/podcast-hosting-rss-feed-gener_1dqcmt3.png)
+
+
+=== How to embed audio in your SquareSpace blog post ===
+
+# How to embed audio in your SquareSpace blog post
+
+This post shows you how to embed the Article Player in your Squarespace blog post.
+
+Since we don't have a Squarespace plugin yet, you'll need to create audio from the Play.ht Dashboard (https://play.ht/app/) and then copy-paste the iframe code of the audio in your blog post to embed the audio player.
+
+Here's how:
+
+1. Assuming you have created the audio of your post already, click on the **Embed** option on the audio file.
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-05-02-at-1010_1rq6ie8.png)
+
+2. Copy the code that starts with ${color}[#0072bc](iframe)
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-05-02-at-1011_vc1zqe.png)
+
+3. Got to your blog post on Squarespace where you want to embed the audio and then edit the post and look for the + icon.
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-05-02-at-1344_6jthrz.png)
+
+4. Then, look for the Embed option
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-05-02-at-1351_10a99sy.png)
+
+5. Click on the Code Symbol on the right hand side
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-05-02-at-1355_13arscz.png)
+
+6. Now paste the iframe code that you had copied from step 2 and click on the Set button
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-05-02-at-1364_vpdlg2.png)
+
+7. You can position your player by dragging and moving it around in your post. Once done, hit the Save button!
+
+
+=== How do I stack more codes? ===
+|| Stacking codes is super easy! You can do this right here on the Play.ht website!
+
+* Go to https://play.ht/app/appsumo, or just go to your **Play Dashboard**, and click on the **AppSumo Tab**. 
+
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screenshot3_kdrdxe.png)
+
+
+* **Paste **or type down your code in the " **Add a new code** " field, and click on **Submit**. 
+
+
+=== How to add audio to your Medium stories ===
+
+# How to add audio to your Medium stories without using the Play.ht Chrome Plugin
+
+If you cannot use the Play.ht Chrome Extension for some reason, you can still add audio to your Medium stories by following these steps:
+
+1. Go to the Play.ht Dashboard (https://play.ht/app/) and click on the **Create New Audio** button
+
+
+![Play.ht Create Audio](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_1vwu8pi.png)
+
+
+2. Next, copy-paste your Medium article content on the editor, or click on Import > Import from URL.
+
+
+![Editor](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_10k9wrz.png)
+
+You will now see an editor with your Medium post's content. This editor allows you to edit text, select a voice, fix any pronunciation errors, add pauses or change tones before creating the final audio. 
+
+3. Once you are done editing, click the Convert button to create the audio of your Medium story.
+
+
+![Convert to Speech](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_1hwt4ny.png)
+
+
+4. Once the audio is created, click on the **Embed** button to open up embedding options.
+
+
+![Embed](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_79m58l.png)
+
+
+6. Look for the option for embedding on Medium.com and copy the link.
+
+
+![Medium Embed Link](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_rs9v7o.png)
+
+7. Now go over to your Medium story, click on Add an Embed, and paste the link in the desired position and **PRESS ENTER.**
+
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_olyg7c.png)
+
+
+![Medium Article Embed](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_6petfk.png)
+
+
+
+=== How much Storage space do I get? ===
+### Your 1st code gives you 100 GB! Every code you apply next, gives you 50 GB each. 
+
+
+
+=== How to change the position of the Audio Player ===
+
+# Changing the position of the Audio Player
+ 
+| By default, the Embedded Audio Player is added at the beginning of the post. But you can easily change its position by using it's **${color}[#108a5c](Short Code)**. 
+
+Here's how:
+
+|| Make sure the post has audio.
+
+* Place the cursor where you wish to add the player, and click on the **${color}[#108a5c](Add Audio)** button on the **Editor**. 
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screenshot1_1cygl6i.png)
+
+* This will add a **${color}[#108a5c](Code Snippet)** in the location where you want the player to show up.
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screenshot2_uc2axs.png)
+
+
+|| Alternatively, you can **Cut** and **Paste** the code snippet in the location where you want the player to show up as well.
+
+
+* Finally, click on **${color}[#108a5c](Update)**, and its's done!
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_mgp29y.png)
+
+
+
+
+=== How to Create Audio ===
+### Here's how you can create your first text-to-speech Audio: **
+
+
+| Before you begin, make sure you have already **Signed-in** to your account. 
+
+
+* On your **${color}[#108a5c](Dashboard)**, click on the **${color}[#108a5c](Create Audio)** button.
+
+![Create Audio](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_1mv0w23.png)
+
+
+* Type in the **${color}[#108a5c](Title)**, and your **${color}[#108a5c](Text)** on the **${color}[#108a5c](Play Editor)**. 
+
+![Play Editor](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_1lq5mx6.png)
+
+
+* Click on **${color}[#108a5c](Voice)**, to change the voice from a list of **${color}[#108a5c](AI Voices)**, filtered by the language of your choosing. 
+
+![Add Voice of your Choice](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_rqlimv.png)
+
+
+* Finally, click on **${color}[#108a5c](Convert to Speech)**.
+
+![Convert to Speech](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_yg2k57.png)
+
+
+| You will be redirected to your ${color}[#108a5c](**Dashboard**), where you can **Download**, **Embed**, **Edit**, and **Share** your Audio. 
+****
+
+
+
+
+=== What features do I get with the deal? ===
+### Here's all the features you get in your App Sumo Package: 
+
+* All Standard Voices
+* All Premium Voices
+* Unlimited Previews 
+* Unlimited Downloads
+* Commercial Use
+* Speech Styles
+* Multi-voice feature
+* Embedded audio players
+* White-labeled audio players
+* Audio Analytics
+* Podcast Hosting
+* Email lead generation
+
+
+=== Do my words roll-over if not used? ===
+### No, your words refresh every month, and do not roll-over. 
+
+
+=== Can I use Play for Commercial Purposes? ex: YouTube, TV etc. ===
+### Yes! You get the rights to use it for commercial purposes. You need not worry about demonetization on YouTube! :)
+
+
+
+=== How to change audio player message using a shortcode ===
+Your audio players can be customized to match the look and feel of your website. Apart from the color of the players, you can also change the what text is displayed on the players. 
+
+Normally, you'd save these settings from the Audio Player Customizations Page once and the settings will reflect on all your players. But sometimes, you might want to display a different message on the audio player for just specific articles. You can do that using a Short-code!
+
+1. Copy and paste the Audio Player Short-code
+
+![Audio player shortcode](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2021-03-13-at-5032_1p3qlim.png)
+
+After adding audio to a post, you'll find it's short-code in the post's edit page. 
+
+Just copy and paste the short-code in the article's text as shown below.
+
+|| The audio player will be displayed at the position where the short-code is pasted.
+
+If you are using the Block Editor, you can use the Short-code block as shown below, otherwise you can simply paste the short-code in the article's text.
+
+![shortcode block](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2021-03-13-at-5074_92el4.png)
+
+
+![paste short code](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2021-03-13-at-5181_gh3xia.png)
+
+2. Edit the Short-Code 
+Once you have pasted the short-code, you can now add some extra data to it to change the default message.
+
+
+![shortcode data](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2021-03-13-at-5124_pansc0.png)
+
+You can add the following data in the short-code to change the messages on the audio player - 
+
+``title: Use this to change the primary message on the audio player. By default, the message is - Listen to this content.``
+
+``message: Use this to change the marketing message of audio player. By default it is Powered by Play.ht``
+
+|| Remember to save the post after editing the Short-Code because only then the changes will reflect.
+
+
+
+=== How to customize your Audio Players ===
+
+# How to customize your Audio Players
+There are **3 types of Audio Player widgets** that you can configure to embed in your blog posts.
+
+1. Embedded Audio Player (also known as Article Player)
+2. Listen button
+3. Floating button
+
+
+### 1. Embedded Audio Player (also known as Article Player)
+
+This sits within your post content (usually at the beginning) to give your audience an option to listen (and read along) the blog post. This is how it looks - 
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-04-05-at-9582_18eptoy.png)
+
+You can enable/disable and customize it within the __**Article Player tab** from the Play.ht Wordpress dashboard __
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-04-05-at-9593_12pyrgt.png)
+
+### 2. Listen button and Floating button
+Both these buttons are added under __**Page Player tab** in the Play.ht Wordpress dashboard__
+
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-04-05-at-1003_1eu3vab.png)
+
+
+|| Make sure to click the 'Save changes' button at the bottom after customizing your players!
+
+
+
+=== How to use the code snippet to automatically add audio to your Squarespace blog posts ===
+# How to use the code snippet to automatically add audio to your Squarespace blog posts
+
+The code snippet allows you to automatically embed audio players in your blog posts when you convert them to audio. 
+
+The way it works is, it looks at the URL of the blog post to determine whether or not to display the audio players or no. Before you paste the code snippet, you can select and customize what players you need and how they should look like. Once you've pasted the snippet, all you need to do then is simply convert your blog posts to audio from the Play.ht dashboard (https://play.ht/app/)
+
+Let's look at the steps in detail -
+
+1. Go to https://play.ht/app/onboardingother
+
+2. Select the type of player you want to have in your blog posts and customize it to match the look and feel of your blog.
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-05-02-at-4043_bby685.png)
+
+3. Next, copy the code snippet.
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-05-02-at-4050_g0kywq.png)
+
+4. Now head over to your Squarespace blog settings and look for the ${color}[#2dace4](Page Header Code Injection) in the Advanced options.
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-05-02-at-4064_12mjc8v.png)
+
+5. Now paste the code snippet.  It doesn't matter if you paste it at the beginning or at the end but make sure you don't override any existing code snippets.
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-05-02-at-4101_grr1el.png)
+
+6. Save the setting.
+
+7. All you need to do now is convert your blog posts to audio using the Article URL option. Let's see that. First, go back to the Play.ht dashboard at https://play.ht/app/
+
+8. From the Audio Files section, click the 'Create New Audio' button and select the "From Article URL" option.
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-05-02-at-4134_adluir.png)
+
+9. That should fetch your blog content so you can edit (if needed) and convert to audio.
+
+10. Once you convert to audio, the audio player should appear in your blog post.
+
+
+||| If only partial blog content gets fetched or the players don't show up in your blog posts, please reach out to us at support@play.ht and we'll help you out.
+
+
+
+
+=== Can I buy words if I need more? ===
+### Yes, you can top-up your words any time you like! 
+
+
+=== How to add audio to your Wordpress blog post ===
+
+# How to add audio to your WordPress blog post
+
+|| This requires Play.ht WordPress plugin to be installed on your blog. If you haven't installed the plugin yet, follow this tutorial - [Installing Play.ht Wordpress plugin](/en/article/how-to-install-the-playht-wordpress-plugin-1tg6dgh/)
+
+The Play.ht WordPress plugin adds certain functionality to your admin that makes it easy to convert your posts, pages or courses into audio and embed that audio. Here are the steps for converting your first blog post to audio:
+
+1. From your Posts page, select the post that you'd like to convert to audio and click on the **Add Audio** button.
+
+
+
+![Add Audio](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_hh8oyf.png)
+
+
+2. You'll now see an editor with your post contents. You can add or remove text to reflect in the audio. You can change the voice, listen to sentences, fix any pronunciations in this editor before creating the final audio which consumes a credits. There the purpose of this editor is to help you edit and finalize the audio before creating it.
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-04-05-at-9401_1xzszy3.png)
+
+3. Once you are ready with the edits to audio, click the Convert button.
+
+|| Converting a blog post to audio consumes a credit
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-04-05-at-9460_xz6cbv.png)
+
+You will now have the audio embedded in your blog post!
+
+
+
+
+=== How to remove audio from your Medium story ===
+
+# How to remove audio from your Medium story
+
+Removing audio from your Medium story is just like removing an image or a video. 
+
+Here are the steps to remove audio from your Medium story:
+
+1. Edit your Medium story
+
+2. Click on the audio player.
+
+3. Hit the **Backspace** key
+
+4. Click the **Save and publish** button
+
+
+
+=== How to embed an MP3 file in your Medium story ===
+
+
+
+# Embedding an MP3 file in your Medium story
+
+Sometimes you might wish to add your own narration to your Medium story. The Play.ht Chrome Extension makes it easy to upload an MP3 file and embed the audio in your Medium story.
+
+If you don't already have the Play.ht Chrome Extension, please download it from here - https://play.ht/extension/
+
+Assuming you have the Play.ht Chrome Extension installed, let's look at how to embed an MP3 file in your Medium story.
+
+
+###### For an already published Medium story, follow these steps:
+
+1. Edit your Medium story.
+
+2. Look for a button at the top that says 'Use your own voice' and click on it.
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-03-26-at-3534_v9cpnx.png)
+
+3. Click on 'Select File' and choose the MP3 file that you want to embed.
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-03-26-at-3545_1mhqtzi.png)
+
+4. After you have selected the MP3, click on Publish.
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-03-26-at-3561_1yaorma.png)
+
+
+
+
+=== How to install the Play.ht Wordpress plugin ===
+
+
+# How to install the Play.ht Wordpress plugin on your blog
+
+Installing the Play.ht Wordpress plugin is just like installing any other Wordpress plugin. Simply download the plugin (it gets downloaded as .zip file), go to your blog admin and upload it there. Here are the steps in detail:
+
+1. Download the plugin from https://wordpress.org/plugins/play-ht/
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-04-05-at-9194_iau0f2.png)
+
+2. Go to your blog admin and click on **Add new** button from the **Plugins page**
+****
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-04-05-at-9231_1mbodut.png)
+
+3. Choose the upload plugin option
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-04-05-at-9234_u7pnjy.png)
+
+
+4. Select the Play.ht plugin .zip file that was just downloaded and click the **Install button**
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-04-05-at-9251_88oss4.png)
+
+
+5. Once the plugin is installed, click on the **Activate Plugin** button
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-04-05-at-9254_9dstpb.png)
+
+
+
+=== How do I activate my first code? ===
+|| If you're trying to manually activate your code, on Play.ht, here's how you do it. 
+
+
+* Go to **https://play.ht/appsumo/?code=<insertcodehere>** and **Sign Up**. 
+
+| Make sure you remove the "< >"
+
+* The Code will automatically get applied, and redirect you to your **dashboard**. 
+
+
+
+
+=== Do I get access to future voices? ===
+### YES! You get access to all the new voices we add! :)
+
+
+
+=== Add Custom Pause Durations to your Audio ===
+# Adding Custom Pauses to your Audio
+
+|| A newly released feature of our March '21 Update, allows you to increase or decrease the duration of Pauses, where necessary. 
+
+
+${youtube}[Add Natural Pauses | Set Custom Pause Durations - Video Tutorial](VT9dqQeektM)
+
+Here's how you do it:
+
+* Head over to your **${color}[#108a5c](Play Editor)**, and place your cursor where you want the pause to be, then click the **${color}[#108a5c](Add Pause button)**.
+
+
+
+![Add Pause](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_1syp23n.png)
+
+
+* You can either select a default  **Pause Duration**, or click on the **Custom Duration** box. 
+
+
+
+![Custom Pause](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_82d2g9.png)
+
+
+
+* If you click on the **Custom Duration** box, a modal should appear asking you to enter a value of the pause duration. Please enter a value less than or equal to 5. 
+
+
+
+![Custom duration](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_1mrgkmp.png)
+
+| You can stack pause durations next to each other to increase the number more than 5. 
+
+
+
+* Once done, you should see a pause appear right where you wanted it to be. 
+
+
+
+![Pause appears](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_9hpzyf.png)
+
+
+
+| If you wish to change the pauses of Punctuations, and time between each paragraphs or lines, please click on the **${color}[#108a5c](Pause Settings)** Menu, on the Menu Bar, or visit **${color}[#108a5c](Settings)** on the Dashboard.
+
+
+
+=== How to change the position of the audio player in your Medium story ===
+
+# How to change the position of the audio player in your Medium story
+
+At times you might want position the audio player in a different place as by default it gets added at the beginning of the Medium story. Here's how you can place it in a different location:
+
+1. We want the Medium story to be converted to audio first. So if you haven't converted it already, go ahead and do it now.
+
+2. Once the story is converted to audio, you can access the audio file from your Web Dashboard here - https://play.ht/app/audio-files/
+
+3. Select the Medium Story you just converted and click on the Embed button to see options of embedding it into different platforms.
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-04-06-at-1242_tqha78.png)
+
+4. Copy the link for embedding on Medium.com
+
+![](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/screen-shot-2020-04-06-at-1243_16t5vi1.png)
+
+5. Go to your Medium story, paste the link in the desired place and **PRESS ENTER**
+
+
+
+=== How to edit the audio after it was published to a Wordpress page ===
+
+# How to edit the audio after it was published to a Wordpress page
+
+At times you want to be able to edit or update the audio, usually in the case when the page content has changed. You can do so by simply following the same process of adding audio to a page. Here are the steps in detail:
+
+1. Select the page whose audio you want to edit from the Pages list, and click on **Edit Audio**
+
+
+
+![Edit Audio](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_1pkwx8k.png)
+
+
+
+2. This will open up the Play.ht's Audio Editor. 
+
+
+
+![Audio Editor](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_12pm5io.png)
+
+
+||| Clicking on Edit will delete your existing Audio file, and create a new one.
+
+
+The text you'll see here is what gets converted to audio. Go ahead and make the edits you want in the text.
+
+
+3. Then Click the **Convert** button once you are done editing the text.
+
+
+=== When do words get reset? ===
+### Your words are reset, or refreshed every 30 days from the day of code activation. 
+
+| You can find your reset date in your **Billing** page, on the **Play Dashboard**.
+
+
+
+=== Using Multiple Voices in the same Audio ===
+# Adding multiple voices in the same Audio. 
+
+
+${youtube}[Add Multiple Voices in the same Audio - Video Tutorial](8KMUBhioeq8)
+
+* Head over to your **${color}[#108a5c](Play Editor)** and type in your desired text. 
+
+
+
+![Sample Text](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_x6o4g7.png)
+
+
+* To add a new voice to your text, click on the **${color}[#108a5c](Add Speaker button)** beside the **${color}[#108a5c](Listen Button)**. 
+
+
+
+![Add Speaker](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_1pi8h9m.png)
+
+
+
+* Once you do, a new text box will appear where you can add your text, and change your current voice.
+
+
+
+![New Speaker box](https://storage.crisp.chat/users/helpdesk/website/904f694116fab000/image_1xvgj6x.png)
+
+
+=== How many codes can I stack? ===
+### You can stack as many codes as you like! :)
